@@ -1,0 +1,99 @@
+body{
+    background: url(back.jpg);
+}
+.block{
+    display: block;
+    text-align:center;
+    margin:auto;
+    background-color: white;
+    width:50%;
+    height:10%;
+    border-radius:15px;
+    font-size:40px;
+    margin-top: 150px;
+    font-family: "Pacifico", cursive;
+}
+
+.Sam{
+    display: block;
+    text-align:center;
+    margin:auto;
+    background-color: white;
+    width:50%;
+    height:10%;
+    border-radius:15px;
+    font-size:40px;
+    margin-top: 150px;
+    font-family: "Pacifico", cursive;
+}
+
+.lock{
+    display: block;
+    text-align:center;
+    margin:auto;
+    background-color: white;
+    width:50%;
+    height:10%;
+    border-radius:15px;
+    font-size:40px;
+    margin-top: 150px;
+    font-family: "Pacifico", cursive;
+}
+
+.batoni button{
+    background-color: aqua;
+    color: black;
+    width:120px;
+    height:50px;
+    border-radius:10px;
+    font-size:30px;
+    box-shadow: 1px 1px 2px 1px;
+    margin-right: 40px;
+    position: relative;
+    left: 640px;
+}
+.baton button{
+    background-color: aqua;
+    color: black;
+    width:120px;
+    height:50px;
+    border-radius:10px;
+    font-size:30px;
+    box-shadow: 1px 1px 2px 1px;
+    margin-right: 40px;
+    position: relative;
+    left: 640px;
+}
+.tik button{
+    background-color: aqua;
+    color: black;
+    width:120px;
+    height:50px;
+    border-radius:10px;
+    font-size:30px;
+    box-shadow: 1px 1px 2px 1px;
+    margin-right: 40px;
+    position: relative;
+    left: 600px;
+}
+.buton button:hover{
+    box-shadow: 0px 0px 0px 0px;
+}
+.butoni button:hover{
+    box-shadow: 0px 0px 0px 0px;
+}
+.tik button:hover{
+    box-shadow: 0px 0px 0px 0px;
+}
+.pozdrav{
+    width: 900px;
+    height: 500px;
+    background-color: white;
+    display:block;
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+    font-size:40px;
+    margin-top: 150px;
+        
+}
